@@ -24,19 +24,19 @@ const imageAltText = "Picture of me and my girlfriend.";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a student majoring in Software Development. I look forward to making reponsive e-commerce websites for small businesses.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Front-end development (Html, CSS, JavaScript)",
+  "Python",
+  "Shopify",
+  "Software Engineering techniques",
+  "Github",
+  "Microsoft Azure",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I want to find clients that are confident in their business and look forward to finding ways to improve user interface and functionality of their websites. Also, finding new inspiring entrepreneurs to work with and set up their websites.";
 
 const About = () => {
   return (
