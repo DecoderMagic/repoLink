@@ -34,9 +34,8 @@ const skillsList = [
   "Front-end development (Html, CSS, JavaScript)",
   "Python",
   "Shopify",
-  "Software Engineering techniques",
-  "Github",
-  "Microsoft Azure",
+  "Linux Operating ",
+  "GitHub",
 ];
 
 /**

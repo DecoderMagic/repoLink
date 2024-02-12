@@ -20,9 +20,9 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/RobertGreeneBook.jpg";
+import image from "../images/RoboWoman.jpg";
 
-const imageAltText = "A book by Robert Greene, noting the gods from Olympus making fun of humans for our inability to see beyong the moment.";
+const imageAltText = "A picture of a robot that looks like a woman's body.";
 
 const Home = ({ name, title }) => {
   return (
